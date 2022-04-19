@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.013e5bd6.chunk.css",
+    "main.js": "/static/js/main.02234d7e.chunk.js",
+    "main.js.map": "/static/js/main.02234d7e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.71c5bbf3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.71c5bbf3.js.map",
+    "static/css/2.4f0b92a7.chunk.css": "/static/css/2.4f0b92a7.chunk.css",
+    "static/js/2.24212bf2.chunk.js": "/static/js/2.24212bf2.chunk.js",
+    "static/js/2.24212bf2.chunk.js.map": "/static/js/2.24212bf2.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.4f0b92a7.chunk.css.map": "/static/css/2.4f0b92a7.chunk.css.map",
+    "static/css/main.013e5bd6.chunk.css.map": "/static/css/main.013e5bd6.chunk.css.map",
+    "static/js/2.24212bf2.chunk.js.LICENSE.txt": "/static/js/2.24212bf2.chunk.js.LICENSE.txt",
+    "static/media/HeroImage.707d5ff3.jpg": "/static/media/HeroImage.707d5ff3.jpg",
+    "static/media/KIDZ.ef9c66bd.jpg": "/static/media/KIDZ.ef9c66bd.jpg",
+    "static/media/MehrNetto.29fdfcb3.jpg": "/static/media/MehrNetto.29fdfcb3.jpg",
+    "static/media/Vitality.569a1ffa.jpg": "/static/media/Vitality.569a1ffa.jpg",
+    "static/media/ZahlenBackground.7b79b8dc.jpg": "/static/media/ZahlenBackground.7b79b8dc.jpg",
+    "static/media/close.07c6ce2e.svg": "/static/media/close.07c6ce2e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71c5bbf3.js",
+    "static/css/2.4f0b92a7.chunk.css",
+    "static/js/2.24212bf2.chunk.js",
+    "static/css/main.013e5bd6.chunk.css",
+    "static/js/main.02234d7e.chunk.js"
+  ]
+}
